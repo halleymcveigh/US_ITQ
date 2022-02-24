@@ -1,0 +1,329 @@
+"","quota_year","ifq_species","price_lb","trades_ytd","sector_quota_pounds_a","carryover_quota_pounds_b","catch_to_date_c","quota_pounds_remaining_a_b_c","metric_ton"
+"1",2011,"Arrowtooth flounder","Not Enough Data","Not Enough Data",27406105,0,5576000,21830105,9901.953
+"2",2011,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.50","3",132277,0,11715,120562,54.686
+"3",2011,"Canary rockfish","$1.21","4",57100,0,8125,48975,22.215
+"4",2011,"Chilipepper rockfish South of 40<U+00B0>10' N.","$0.05","3",3252370,0,688187,2564183,1163.092
+"5",2011,"Cowcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3968,0,39,3929,1.782
+"6",2011,"Darkblotched rockfish","$0.40","4",552997,0,200264,352733,159.997
+"7",2011,"Dover sole","$0.06","4",49018682,0,17269411,31749271,14401.204
+"8",2011,"English sole","Not Enough Data","Not Enough Data",41166808,0,302936,40863872,18535.51
+"9",2011,"Lingcod","$0.07","2",4107873,0,639244,3468629,1573.341
+"10",2011,"Longspine thornyheads North of 34<U+00B0>27' N.","$0.04","5",4334839,0,2119804,2215035,1004.721
+"11",2011,"Minor shelf rockfish North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1150813,0,34225,1116588,506.475
+"12",2011,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",189598,0,6633,182965,82.991
+"13",2011,"Minor slope rockfish North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1828779,0,319938,1508841,684.398
+"14",2011,"Minor slope rockfish South of 40<U+00B0>10' N.","$0.05","6",831958,0,113337,718621,325.96
+"15",2011,"Other flatfish","Not Enough Data","Not Enough Data",9253683,0,1527767,7725916,3504.411
+"16",2011,"Pacific cod","$0.05","11",2502247,0,556691,1945556,882.488
+"17",2011,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$1.31","5",257524,0,70839,186685,84.679
+"18",2011,"Pacific ocean perch North of 40<U+00B0>10' N.","$0.14","3",263148,0,101433,161715,73.353
+"19",2011,"Pacific whiting","$0.02","26",204628442,0,201030361,3598081,1632.059
+"20",2011,"Petrale sole","$0.35","36",1920226,0,1789627,130599,59.239
+"21",2011,"Sablefish North of 36<U+00B0> N.","$1.07","54",5613719,0,5287802,325917,147.833
+"22",2011,"Sablefish South of 36<U+00B0> N.","$0.75","58",1170390,0,1009286,161104,73.075
+"23",2011,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.07","2",3156138,0,1574518,1581620,717.41
+"24",2011,"Shortspine thornyheads South of 34<U+00B0>27' N.","$0.17","3",110231,0,18653,91578,41.539
+"25",2011,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3045245,0,88523,2956722,1341.144
+"26",2011,"Starry flounder","Not Enough Data","Not Enough Data",1471586,0,25936,1445650,655.735
+"27",2011,"Widow rockfish","$0.44","6",755348,0,303703,451645,204.862
+"28",2011,"Yelloweye rockfish","$32.28","4",1323,0,128,1195,0.542
+"29",2011,"Yellowtail rockfish North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",6821455,0,1629184,5192271,2355.171
+"30",2012,"Arrowtooth flounder","$0.02","2",20861131,2122218,5497232,17486117,7931.556
+"31",2012,"Bocaccio rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",132277,12929,19461,125745,57.037
+"32",2012,"Canary rockfish","$1.49","15",57761,5567,15942,47386,21.494
+"33",2012,"Chilipepper rockfish South of 40<U+00B0>10' N.","$0.03","6",2934904,285967,642329,2578542,1169.605
+"34",2012,"Cowcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3968,375,204,4139,1.877
+"35",2012,"Darkblotched rockfish","$0.22","6",548808,53448,197918,404338,183.404
+"36",2012,"Dover sole","Not Enough Data","Not Enough Data",49018682,4737054,16063162,37692574,17097.036
+"37",2012,"English sole","Not Enough Data","Not Enough Data",21037611,2110517,324291,22823837,10352.701
+"38",2012,"Lingcod","$0.05","4",3991800,391885,839509,3544176,1607.609
+"39",2012,"Longspine thornyheads North of 34<U+00B0>27' N.","$0.05","12",4219648,372551,2010604,2581595,1170.99
+"40",2012,"Minor shelf rockfish North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1150813,114729,88221,1177321,534.023
+"41",2012,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",189598,18927,28522,180003,81.648
+"42",2012,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.04","4",1828779,178456,486088,1521147,689.98
+"43",2012,"Minor slope rockfish South of 40<U+00B0>10' N.","$0.03","7",831958,82759,271674,643043,291.679
+"44",2012,"Other flatfish","Not Enough Data","Not Enough Data",9253683,893114,1514202,8632595,3915.673
+"45",2012,"Pacific cod","$0.02","9",2502247,229296,873698,1857845,842.703
+"46",2012,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$1.19","10",232856,22661,100647,154870,70.248
+"47",2012,"Pacific ocean perch North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",263441,23720,118146,169015,76.664
+"48",2012,"Pacific whiting","$0.04","64",151373798,0,144759024,6614774,3000.406
+"49",2012,"Petrale sole","$0.40","20",2324995,62222,2332199,55018,24.956
+"50",2012,"Sablefish North of 36<U+00B0> N.","$1.04","47",5438797,0,4928150,510647,231.625
+"51",2012,"Sablefish South of 36<U+00B0> N.","$1.05","31",1133352,0,503511,629841,285.691
+"52",2012,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.05","9",3120533,291794,1571037,1841290,835.194
+"53",2012,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,10269,803,119697,54.294
+"54",2012,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3206513,301778,130462,3377829,1532.155
+"55",2012,"Starry flounder","Not Enough Data","Not Enough Data",1480404,147025,18404,1609025,729.84
+"56",2012,"Widow rockfish","$0.34","9",755352,70193,340220,485325,220.139
+"57",2012,"Yelloweye rockfish","$21.76","9",1323,99,76,1346,0.611
+"58",2012,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.01","8",6850556,667675,2194139,5324092,2414.964
+"59",2013,"Arrowtooth flounder","$0.01","5",8479264,1046774,5365841,4160197,1887.031
+"60",2013,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.20","4",165126,13164,28332,149958,68.02
+"61",2013,"Canary rockfish","$3.09","12",87964,5286,22526,70724,32.08
+"62",2013,"Chilipepper rockfish South of 40<U+00B0>10' N.","$0.02","5",2423983,271898,870774,1825107,827.853
+"63",2013,"Cowcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2205,371,486,2090,0.948
+"64",2013,"Darkblotched rockfish","$0.53","10",587976,51832,256485,383323,173.872
+"65",2013,"Dover sole","Not Enough Data","2",49018682,4786648,17583083,36222247,16430.108
+"66",2013,"English sole","Not Enough Data","Not Enough Data",14032486,1365357,486273,14911570,6763.763
+"67",2013,"Lingcod North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2695305,261631,749955,2206981,1001.068
+"68",2013,"Lingcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1089993,99349,36814,1152528,522.777
+"69",2013,"Longspine thornyheads North of 34<U+00B0>27' N.","$0.05","14",4100267,355537,2400808,2054996,932.129
+"70",2013,"Minor shelf rockfish North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1119948,113037,65686,1167299,529.477
+"71",2013,"Minor shelf rockfish South of 40<U+00B0>10' N.","$0.04","5",178574,18317,44443,152448,69.149
+"72",2013,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.03","3",1712835,172213,431244,1453804,659.433
+"73",2013,"Minor slope rockfish South of 40<U+00B0>10' N.","$0.05","7",829181,81022,258778,651425,295.481
+"74",2013,"Other flatfish","Not Enough Data","Not Enough Data",9236501,902082,1767468,8371115,3797.068
+"75",2013,"Pacific cod","Not Enough Data","Not Enough Data",2480830,203421,339657,2344594,1063.488
+"76",2013,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$1.76","21",236660,17131,72707,181084,82.138
+"77",2013,"Pacific ocean perch North of 40<U+00B0>10' N.","$0.75","14",241241,19478,108062,152657,69.244
+"78",2013,"Pacific whiting","$0.04","53",216707790,0,215218208,1489582,675.662
+"79",2013,"Petrale sole","$0.25","50",5110315,0,4695933,414382,187.96
+"80",2013,"Sablefish North of 36<U+00B0> N.","$0.88","66",4030050,256838,4080318,206570,93.698
+"81",2013,"Sablefish South of 36<U+00B0> N.","$0.26","8",1327800,97931,200064,1225667,555.952
+"82",2013,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.05","10",3054183,286681,1825663,1515201,687.282
+"83",2013,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,10771,8150,112852,51.189
+"84",2013,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3346838,312109,101757,3557190,1613.512
+"85",2013,"Starry flounder","Not Enough Data","Not Enough Data",1656774,139500,7705,1788569,811.28
+"86",2013,"Widow rockfish","$0.53","10",2191016,68882,907513,1352385,613.431
+"87",2013,"Yelloweye rockfish","$29.58","11",2205,98,139,2164,0.982
+"88",2013,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.03","6",5809905,594333,1585755,4818483,2185.624
+"89",2014,"Arrowtooth flounder","Not Enough Data","7",7643603,0,3824627,3818976,1732.256
+"90",2014,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.30","7",174165,16190,19745,170610,77.387
+"91",2014,"Canary rockfish","$2.12","17",90610,8665,23258,76017,34.481
+"92",2014,"Chilipepper rockfish South of 40<U+00B0>10' N.","$0.03","12",2352883,0,688447,1664436,754.974
+"93",2014,"Cowcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2205,192,436,1961,0.889
+"94",2014,"Darkblotched rockfish","$1.08","10",613789,57911,215612,456088,206.878
+"95",2014,"Dover sole","Not Enough Data","Not Enough Data",49018682,4727969,14319135,39427516,17883.991
+"96",2014,"English sole","Not Enough Data","Not Enough Data",11598189,0,523521,11074668,5023.377
+"97",2014,"Lingcod North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2546670,0,527242,2019428,915.996
+"98",2014,"Lingcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1045653,0,41275,1004378,455.577
+"99",2014,"Longspine thornyheads North of 34<U+00B0>27' N.","$0.06","18",3993453,372748,1981102,2385099,1081.861
+"100",2014,"Minor shelf rockfish North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1119948,113895,75078,1158765,525.606
+"101",2014,"Minor shelf rockfish South of 40<U+00B0>10' N.","$0.03","2",178574,17176,21403,174347,79.082
+"102",2014,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.03","2",1740285,169981,405976,1504290,682.333
+"103",2014,"Minor slope rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",834736,0,218445,616291,279.544
+"104",2014,"Other flatfish","Not Enough Data","Not Enough Data",9245746,889807,1852420,8283133,3757.16
+"105",2014,"Pacific cod","$0.02","3",2483309,256143,365985,2373467,1076.585
+"106",2014,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$0.58","15",236660,20496,60606,196550,89.153
+"107",2014,"Pacific ocean perch North of 40<U+00B0>10' N.","$0.99","14",247535,21086,89311,179310,81.334
+"108",2014,"Pacific whiting","$0.03","26",263309103,0,217627250,45681853,20720.906
+"109",2014,"Petrale sole","$0.28","58",5242593,0,5100488,142105,64.458
+"110",2014,"Sablefish North of 36<U+00B0> N.","$1.00","62",4382790,141890,4154279,370401,168.011
+"111",2014,"Sablefish South of 36<U+00B0> N.","$0.16","22",1439839,127704,454542,1113001,504.848
+"112",2014,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.06","9",3025822,262339,1506158,1782003,808.302
+"113",2014,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,10330,6040,114521,51.946
+"114",2014,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3472501,0,148024,3324477,1507.955
+"115",2014,"Starry flounder","Not Enough Data","Not Enough Data",1665592,0,32472,1633120,740.77
+"116",2014,"Widow rockfish","$0.23","34",2191020,201881,1441833,951068,431.396
+"117",2014,"Yelloweye rockfish","$27.07","12",2205,183,123,2265,1.027
+"118",2014,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.02","21",6479055,0,2565281,3913774,1775.255
+"119",2015,"Arrowtooth flounder","$0.01","19",7041410,0,3681069,3360341,1524.223
+"120",2015,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.27","10",180537,17273,85223,112587,51.069
+"121",2015,"Canary rockfish","$1.14","29",95372,8866,98842,5396,2.448
+"122",2015,"Chilipepper rockfish South of 40<U+00B0>10' N.","$0.02","4",2652161,0,416972,2235189,1013.863
+"123",2015,"Cowcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3175,187,832,2530,1.148
+"124",2015,"Darkblotched rockfish","$0.52","22",629662,60158,269762,420058,190.535
+"125",2015,"Dover sole","Not Enough Data","Not Enough Data",101370312,4788683,13753175,92405820,41914.506
+"126",2015,"English sole","Not Enough Data","Not Enough Data",20179330,0,725800,19453530,8823.958
+"127",2015,"Lingcod North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2498543,0,408590,2089953,947.985
+"128",2015,"Lingcod South of 40<U+00B0>10' N.","$0.01","3",987032,0,69851,917181,416.026
+"129",2015,"Longspine thornyheads North of 34<U+00B0>27' N.","$0.03","7",6530820,384413,1693928,5221305,2368.34
+"130",2015,"Minor shelf rockfish North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2406787,0,73704,2333083,1058.267
+"131",2015,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",423728,2196,19672,406252,184.273
+"132",2015,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.02","4",2688339,0,502772,2185567,991.355
+"133",2015,"Minor slope rockfish South of 40<U+00B0>10' N.","$0.02","7",934738,26453,153212,807979,366.493
+"134",2015,"Other flatfish","Not Enough Data","Not Enough Data",16910558,0,1838194,15072364,6836.698
+"135",2015,"Pacific cod","$0.01","5",2273870,223576,831541,1665905,755.641
+"136",2015,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$0.58","13",186287,19421,79218,126490,57.375
+"137",2015,"Pacific ocean perch North of 40<U+00B0>10' N.","$0.56","24",261138,23921,109926,175133,79.439
+"138",2015,"Pacific whiting","Not Enough Data","Not Enough Data",274712403,0,128714160,145998243,66223.581
+"139",2015,"Petrale sole","$0.35","65",5598419,0,5510339,88080,39.952
+"140",2015,"Sablefish North of 36<U+00B0> N.","$1.11","57",4848781,198725,4857784,189722,86.056
+"141",2015,"Sablefish South of 36<U+00B0> N.","$0.18","51",1587064,137010,374474,1349600,612.167
+"142",2015,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.04","7",3486589,296304,1583625,2199268,997.57
+"143",2015,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,10244,1793,118682,53.833
+"144",2015,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3569901,0,61642,3508259,1591.317
+"145",2015,"Starry flounder","Not Enough Data","Not Enough Data",1668569,0,14144,1654425,750.433
+"146",2015,"Widow rockfish","$0.15","52",3131931,167354,1795880,1503405,681.932
+"147",2015,"Yelloweye rockfish","$19.86","4",2205,172,78,2299,1.043
+"148",2015,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.01","16",10126162,0,3196481,6929681,3143.245
+"149",2016,"Arrowtooth flounder","$0.01","12",6687458,0,3130354,3557104,1613.473
+"150",2016,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.29","8",187437,13755,95235,105957,48.061
+"151",2016,"Canary rockfish","$1.35","17",98062,6701,47388,57375,26.025
+"152",2016,"Chilipepper rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2637280,0,166564,2470716,1120.696
+"153",2016,"Cowcod South of 40<U+00B0>10' N.","$2.06","6",3175,271,651,2795,1.268
+"154",2016,"Darkblotched rockfish","$0.55","19",645536,55380,271787,429129,194.649
+"155",2016,"Dover sole","Not Enough Data","Not Enough Data",101370312,9302124,15864313,94808123,43004.171
+"156",2016,"English sole","Not Enough Data","Not Enough Data",14631287,0,832507,13798780,6259.011
+"157",2016,"Lingcod North of 40<U+00B0>10' N.","$0.01","4",2388422,0,574312,1814110,822.865
+"158",2016,"Lingcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",929491,0,54570,874921,396.857
+"159",2016,"Longspine thornyheads North of 34<U+00B0>27' N.","$0.02","4",6206189,556534,1454237,5308486,2407.885
+"160",2016,"Minor shelf rockfish North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2417413,2155,75760,2343808,1063.132
+"161",2016,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",423993,2156,9807,416342,188.849
+"162",2016,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.01","7",2711554,0,353210,2358344,1069.725
+"163",2016,"Minor slope rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",937516,22018,109982,849552,385.35
+"164",2016,"Other flatfish","Not Enough Data","Not Enough Data",13922412,0,1890400,12032012,5457.62
+"165",2016,"Pacific cod","Not Enough Data","14",2273870,181987,848703,1607154,728.992
+"166",2016,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$0.72","28",199954,13752,76821,136885,62.09
+"167",2016,"Pacific ocean perch North of 40<U+00B0>10' N.","$0.51","15",273704,24067,120157,177614,80.564
+"168",2016,"Pacific whiting","$0.01","16",310867464,0,190244657,120622807,54713.496
+"169",2016,"Petrale sole","$0.33","62",5805653,0,5511005,294648,133.65
+"170",2016,"Sablefish North of 36<U+00B0> N.","$1.10","83",5315874,142280,5070079,388075,176.028
+"171",2016,"Sablefish South of 36<U+00B0> N.","$0.17","3",1736140,154324,447857,1442607,654.354
+"172",2016,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.03","17",3446795,1407,1647482,1800720,816.792
+"173",2016,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,724,4388,106567,48.338
+"174",2016,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3634827,0,28874,3605953,1635.63
+"175",2016,"Starry flounder","Not Enough Data","Not Enough Data",1674080,0,27972,1646108,746.661
+"176",2016,"Widow rockfish","$0.15","26",3131931,281855,1846488,1567298,710.913
+"177",2016,"Yelloweye rockfish","Not Enough Data","Not Enough Data",2381,172,108,2445,1.109
+"178",2016,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.01","9",9648906,0,2524742,7124164,3231.461
+"179",2017,"Arrowtooth flounder","Not Enough Data","Not Enough Data",24362403,0,3035967,21326436,9673.493
+"180",2017,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.23","8",666678,17792,202154,482316,218.775
+"181",2017,"Canary rockfish","Not Enough Data","Not Enough Data",2235708,0,559313,1676395,760.399
+"182",2017,"Chilipepper rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",4234639,0,244044,3990595,1810.1
+"183",2017,"Cowcod South of 40<U+00B0>10' N.","$2.37","4",3086,289,843,2532,1.148
+"184",2017,"Darkblotched rockfish","$0.35","9",1119066,0,400730,718336,325.831
+"185",2017,"Dover sole","Not Enough Data","Not Enough Data",101370753,9537999,16196041,94712711,42960.893
+"186",2017,"English sole","Not Enough Data","Not Enough Data",20411719,0,560878,19850841,9004.175
+"187",2017,"Lingcod North of 40<U+00B0>10' N.","$0.01","27",2997625,0,1365279,1632346,740.418
+"188",2017,"Lingcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1232164,0,54044,1178120,534.385
+"189",2017,"Longspine thornyheads North of 34<U+00B0>27' N.","$0.02","3",5952040,0,1797148,4154892,1884.624
+"190",2017,"Minor shelf rockfish North of 40<U+00B0>10' N.","$0.01","8",2531127,0,531539,1999588,906.996
+"191",2017,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",423728,2161,5084,420805,190.874
+"192",2017,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.02","2",2797225,0,364057,2433168,1103.665
+"193",2017,"Minor slope rockfish South of 40<U+00B0>10' N.","$0.02","5",953940,24209,123562,854587,387.634
+"194",2017,"Other flatfish","Not Enough Data","Not Enough Data",16436343,0,1612342,14824001,6724.043
+"195",2017,"Pacific cod","Not Enough Data","Not Enough Data",2273848,206435,94842,2385441,1082.016
+"196",2017,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$0.72","24",174901,16905,79235,112571,51.061
+"197",2017,"Pacific ocean perch North of 40<U+00B0>10' N.","$0.51","34",437177,24447,206893,254731,115.544
+"198",2017,"Pacific whiting","$0.01","20",373787151,0,324307384,49479767,22443.608
+"199",2017,"Petrale sole","$0.37","81",6052350,0,6066861,-14511,-6.582
+"200",2017,"Sablefish North of 36<U+00B0> N.","$1.21","86",5327250,310893,5574933,63210,28.672
+"201",2017,"Sablefish South of 36<U+00B0> N.","$0.07","3",1721369,135090,249530,1606929,728.89
+"202",2017,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.02","12",3420031,0,1634160,1785871,810.056
+"203",2017,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,0,0,110231,50
+"204",2017,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3663642,0,28675,3634967,1648.791
+"205",2017,"Starry flounder","Not Enough Data","Not Enough Data",1390896,0,15151,1375745,624.026
+"206",2017,"Widow rockfish","$0.03","3",25116604,0,13050990,12065614,5472.862
+"207",2017,"Yelloweye rockfish","$13.30","11",2425,202,367,2260,1.025
+"208",2017,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.02","23",9361048,0,5437061,3923987,1779.888
+"209",2018,"Arrowtooth flounder","Not Enough Data","Not Enough Data",24234535,0,2250989,21983546,9971.552
+"210",2018,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.15","12",624570,51862,395552,280880,127.405
+"211",2018,"Canary rockfish","$0.67","14",2235708,0,1009114,1226594,556.373
+"212",2018,"Chilipepper rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",4069292,0,637185,3432107,1556.775
+"213",2018,"Cowcod South of 40<U+00B0>10' N.","$2.06","4",3086,254,922,2418,1.097
+"214",2018,"Darkblotched rockfish","$0.40","15",1142876,0,580646,562230,255.023
+"215",2018,"Dover sole","Not Enough Data","Not Enough Data",101370753,9693561,14050212,97014102,44004.785
+"216",2018,"English sole","Not Enough Data","Not Enough Data",15328741,0,472216,14856525,6738.795
+"217",2018,"Lingcod North of 40<U+00B0>10' N.","$0.03","16",2776325,0,966919,1809406,820.731
+"218",2018,"Lingcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1126011,0,114108,1011903,458.991
+"219",2018,"Longspine thornyheads North of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",5644275,0,774620,4869655,2208.835
+"220",2018,"Minor shelf rockfish North of 40<U+00B0>10' N.","$0.01","11",2528261,2154,598814,1931601,876.158
+"221",2018,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",424169,2161,12133,414197,187.876
+"222",2018,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.01","5",2795461,0,452452,2343009,1062.769
+"223",2018,"Minor slope rockfish South of 40<U+00B0>10' N.","$0.01","6",956586,21985,163336,815235,369.784
+"224",2018,"Other flatfish","Not Enough Data","Not Enough Data",13997810,0,1355933,12641877,5734.25
+"225",2018,"Pacific cod","Not Enough Data","Not Enough Data",2273848,197270,14229,2456889,1114.424
+"226",2018,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$0.95","18",176072,12205,68910,119367,54.144
+"227",2018,"Pacific ocean perch North of 40<U+00B0>10' N.","$0.67","19",437177,37958,196224,278911,126.512
+"228",2018,"Pacific whiting","$0.01","5",372861210,0,287141369,85719841,38881.802
+"229",2018,"Petrale sole","$0.36","54",5794851,0,5828824,-33973,-15.41
+"230",2018,"Sablefish North of 36<U+00B0> N.","$1.06","58",5559838,107331,5085672,581497,263.762
+"231",2018,"Sablefish South of 36<U+00B0> N.","Not Enough Data","Not Enough Data",1795445,106826,100169,1802102,817.418
+"232",2018,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.01","5",3388505,0,1417794,1970711,893.898
+"233",2018,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,0,0,110231,50
+"234",2018,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3665846,0,77895,3587951,1627.465
+"235",2018,"Starry flounder","Not Enough Data","Not Enough Data",1390896,0,3606,1387290,629.263
+"236",2018,"Widow rockfish","$0.03","43",23504584,0,22802755,701829,318.344
+"237",2018,"Yelloweye rockfish","Not Enough Data","Not Enough Data",2425,199,283,2341,1.062
+"238",2018,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.03","24",8984719,0,6812607,2172112,985.252
+"239",2019,"Arrowtooth flounder","Not Enough Data","Not Enough Data",28076090,0,1876967,26199123,11883.703
+"240",2019,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.12","2",1765241,0,713966,1051275,476.85
+"241",2019,"Canary rockfish","$0.30","12",2102328,0,930813,1171515,531.389
+"242",2019,"Chilipepper rockfish South of 40<U+00B0>10' N.","$0.01","6",4052758,0,1095176,2957582,1341.534
+"243",2019,"Cowcod South of 40<U+00B0>10' N.","$2.09","4",4850,239,1718,3371,1.529
+"244",2019,"Darkblotched rockfish","$0.32","24",1451524,0,726480,725044,328.874
+"245",2019,"Dover sole","Not Enough Data","Not Enough Data",101366784,8894757,12735662,97525879,44236.922
+"246",2019,"English sole","Not Enough Data","Not Enough Data",20668558,0,454368,20214190,9168.987
+"247",2019,"Lingcod North of 40<U+00B0>10' N.","$0.01","6",4523665,30822,942999,3611488,1638.141
+"248",2019,"Lingcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1019638,87227,179752,927113,420.531
+"249",2019,"Longspine thornyheads North of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",5335187,0,609239,4725948,2143.65
+"250",2019,"Minor shelf rockfish North of 40<U+00B0>10' N.","$0.02","16",2546780,0,1029007,1517773,688.449
+"251",2019,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",415792,0,33571,382221,173.372
+"252",2019,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.01","9",2753133,0,598563,2154570,977.295
+"253",2019,"Minor slope rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",2312870,0,98117,2214753,1004.593
+"254",2019,"Other flatfish","Not Enough Data","Not Enough Data",12354044,0,1004458,11349586,5148.077
+"255",2019,"Pacific cod","Not Enough Data","Not Enough Data",2279800,210225,12471,2477554,1123.798
+"256",2019,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$0.56","14",153392,14283,69626,98049,44.474
+"257",2019,"Pacific ocean perch North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",8151151,0,1023654,7127497,3232.973
+"258",2019,"Pacific whiting","$0.01","9",372859069,0,319409466,53449603,24244.293
+"259",2019,"Petrale sole","$0.43","76",5407939,0,5273553,134386,60.956
+"260",2019,"Sablefish North of 36<U+00B0> N.","$0.61","62",5690792,250532,5637247,304077,137.927
+"261",2019,"Sablefish South of 36<U+00B0> N.","Not Enough Data","Not Enough Data",1838655,88902,187194,1740363,789.414
+"262",2019,"Shortspine thornyheads North of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",3321925,0,1201993,2119932,961.583
+"263",2019,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,0,0,110231,50
+"264",2019,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3630352,0,32246,3598106,1632.071
+"265",2019,"Starry flounder","Not Enough Data","Not Enough Data",466498,0,322,466176,211.454
+"266",2019,"Widow rockfish","$0.04","44",21889257,0,20545092,1344165,609.702
+"267",2019,"Yelloweye rockfish","$13.60","12",7496,192,1141,6547,2.97
+"268",2019,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.05","43",9492664,0,7011379,2481285,1125.49
+"269",2020,"Arrowtooth flounder","Not Enough Data","Not Enough Data",22161527,0,1344919,20816608,9442.239
+"270",2020,"Bocaccio rockfish South of 40<U+00B0>10' N.","$0.11","2",1691166,0,587109,1104057,500.791
+"271",2020,"Canary rockfish","Not Enough Data","Not Enough Data",1971594,0,746715,1224879,555.595
+"272",2020,"Chilipepper rockfish South of 40<U+00B0>10' N.","$0.01","5",3844420,0,1429160,2415260,1095.542
+"273",2020,"Cowcod South of 40<U+00B0>10' N.","$1.53","9",7142,400,1767,5775,2.619
+"274",2020,"Darkblotched rockfish","$0.40","14",1550731,0,599595,951136,431.427
+"275",2020,"Dover sole","Not Enough Data","Not Enough Data",101366784,9264371,10415534,100215621,45456.967
+"276",2020,"English sole","Not Enough Data","Not Enough Data",20762915,0,279127,20483788,9291.275
+"277",2020,"Lingcod North of 40<U+00B0>10' N.","$0.01","4",4196278,37429,725591,3508116,1591.252
+"278",2020,"Lingcod South of 40<U+00B0>10' N.","$0.01","3",850984,78443,127028,802399,363.961
+"279",2020,"Longspine thornyheads North of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",5056522,0,241665,4814857,2183.979
+"280",2020,"Minor shelf rockfish North of 40<U+00B0>10' N.","$0.02","17",2538843,0,1147544,1391299,631.082
+"281",2020,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",415791,2166,48031,369926,167.795
+"282",2020,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.02","3",2728220,0,492822,2235398,1013.958
+"283",2020,"Minor slope rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1003985,0,97801,906184,411.037
+"284",2020,"Other flatfish","Not Enough Data","Not Enough Data",11447282,0,973094,10474188,4751.004
+"285",2020,"Pacific cod","Not Enough Data","Not Enough Data",2279800,213610,6431,2486979,1128.073
+"286",2020,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$0.36","18",146261,10485,55199,101547,46.061
+"287",2020,"Pacific ocean perch North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",7941491,0,1137003,6804488,3086.459
+"288",2020,"Pacific whiting","$0.01","12",360162583,0,307499547,52663036,23887.512
+"289",2020,"Petrale sole","$0.41","53",5276102,0,4600538,675564,306.43
+"290",2020,"Sablefish North of 36<U+00B0> N.","$0.42","31",5813148,189906,3981876,2021178,916.789
+"291",2020,"Sablefish South of 36<U+00B0> N.","Not Enough Data","Not Enough Data",1877677,80973,173523,1785127,809.719
+"292",2020,"Shortspine thornyheads North of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",3292603,0,790587,2502016,1134.894
+"293",2020,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,0,0,110231,50
+"294",2020,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3590668,0,38536,3552132,1611.217
+"295",2020,"Starry flounder","Not Enough Data","Not Enough Data",466498,0,403,466095,211.417
+"296",2020,"Widow rockfish","$0.05","41",20695012,0,18380011,2315001,1050.065
+"297",2020,"Yelloweye rockfish","$14.58","5",7495,682,831,7346,3.332
+"298",2020,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.05","41",8924312,0,7514183,1410129,639.623
+"299",2021,"Arrowtooth flounder","Not Enough Data","Not Enough Data",16261340,0,1618080,14643260,6642.06
+"300",2021,"Bocaccio rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1463318,0,562819,900499,408.459
+"301",2021,"Canary rockfish","Not Enough Data","Not Enough Data",1942184,0,811167,1131017,513.02
+"302",2021,"Chilipepper rockfish South of 40<U+00B0>10' N.","$0.01","3",3737276,0,1599727,2137549,969.574
+"303",2021,"Cowcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",39683,0,4394,35289,16.007
+"304",2021,"Darkblotched rockfish","$0.22","14",1638894,0,570654,1068240,484.545
+"305",2021,"Dover sole","Not Enough Data","Not Enough Data",101352344,7984664,8876033,100460975,45568.257
+"306",2021,"English sole","Not Enough Data","Not Enough Data",18691231,0,420285,18270946,8287.548
+"307",2021,"Lingcod North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",5017236,37431,764871,4289796,1945.816
+"308",2021,"Lingcod South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",960333,71558,95650,936241,424.671
+"309",2021,"Longspine thornyheads North of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",5404147,0,158151,5245996,2379.54
+"310",2021,"Minor shelf rockfish North of 40<U+00B0>10' N.","$0.04","18",1832195,0,887302,944893,428.596
+"311",2021,"Minor shelf rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",351064,2158,63252,289970,131.528
+"312",2021,"Minor slope rockfish North of 40<U+00B0>10' N.","$0.03","12",2069214,0,627415,1441799,653.988
+"313",2021,"Minor slope rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",1160513,0,106480,1054033,478.101
+"314",2021,"Other flatfish","Not Enough Data","Not Enough Data",9012497,0,911469,8101028,3674.558
+"315",2021,"Pacific cod","Not Enough Data","Not Enough Data",2291065,206628,3170,2494523,1131.495
+"316",2021,"Pacific halibut (IBQ) North of 40<U+00B0>10' N.","$0.46","5",159384,11148,65800,104732,47.506
+"317",2021,"Pacific ocean perch North of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",7358457,0,976255,6382202,2894.913
+"318",2021,"Pacific whiting","$0.01","37",313569868,0,278568557,35001311,15876.302
+"319",2021,"Petrale sole","$0.24","36",8141450,0,6208032,1933418,876.982
+"320",2021,"Sablefish North of 36<U+00B0> N.","$0.23","52",6921611,0,5042195,1879416,852.487
+"321",2021,"Sablefish South of 36<U+00B0> N.","$0.10","2",1732833,0,192932,1539901,698.486
+"322",2021,"Shortspine thornyheads North of 34<U+00B0>27' N.","$0.04","3",2672267,0,726894,1945373,882.405
+"323",2021,"Shortspine thornyheads South of 34<U+00B0>27' N.","Not Enough Data","Not Enough Data",110231,0,0,110231,50
+"324",2021,"Splitnose rockfish South of 40<U+00B0>10' N.","Not Enough Data","Not Enough Data",3450675,0,44777,3405898,1544.887
+"325",2021,"Starry flounder","Not Enough Data","Not Enough Data",378754,0,190,378564,171.713
+"326",2021,"Widow rockfish","$0.05","20",29984366,0,23810748,6173618,2800.301
+"327",2021,"Yelloweye rockfish","$14.40","7",7275,640,1016,6899,3.129
+"328",2021,"Yellowtail rockfish North of 40<U+00B0>10' N.","$0.05","13",9019397,0,5928494,3090903,1402.008
